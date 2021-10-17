@@ -1,0 +1,21 @@
+=================================================================================
+|	Author: Rushil Thakker														|
+|	Email: rntgb9@umsystem.edu													|
+|	Date: September 17th, 2021													|
+|																				|
+|	Course: ECE 4870 - Computational Intelligence								|												
+|	File Title: assumptions.txt													|
+|	File Description: List of assumptions being made for part2.py				|
+=================================================================================
+
+
+ASSUMPTIONS LIST:
+
+	1. All neurons utilize sum aggregation
+	2. All neurons utilize Sigmoid activation functions
+	3. The learning rate, 𝛼, for the network is 0.2
+	4. The type of error being implemented will be the sum of squared error
+	5. The network will only run 1 epoch
+
+
+=================================== END ========================================== 
